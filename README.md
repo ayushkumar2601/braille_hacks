@@ -36,10 +36,8 @@ Real captures from **Braille Vision** running locally — upload OCR, dual theme
 
 | Light theme — image upload | Dark theme — full UI |
 |----------------------------|----------------------|
-| ![Light theme: upload detects “i am a teacher”](public/ss1.png) | ![Dark theme: Braille Vision UI](public/ss2.png) |
 | **ss1** — White/light mode. A Braille image is uploaded; the app decodes and displays **“i am a teacher”** with detection overlay and confidence. | **ss2** — Dark mode. Same scanner with the premium dark theme, status chips, and recognition panel. |
 
-**Links:** [ss1.png](public/ss1.png) · [ss2.png](public/ss2.png)
 
 ---
 
